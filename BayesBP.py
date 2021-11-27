@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 17 13:58:10 2020
 
-@author: admin
+@author: LiSyuan Hong
 """
 
 #from numba import jit
